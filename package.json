@@ -1,0 +1,28 @@
+{
+  "name": "webvalid",
+  "version": "1.0.0",
+  "description": "Basic validation utilities",
+  "main": "index.cjs",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "type": "module",
+  "exports": {
+    "import": "./index.js",
+    "require": "./index.cjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "validation",
+    "utilities",
+    "email",
+    "files"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aevamshingala/webvalid.git"
+  }
+}
